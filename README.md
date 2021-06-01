@@ -3,7 +3,7 @@
 ### What's up?! 👋
 
 
-[![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=radical)](https://github.com/Collumbus/github-readme-stats)
+[![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=dracula)](https://github.com/Collumbus/github-readme-stats)
 
 
 
