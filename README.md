@@ -3,8 +3,8 @@
 ### What's up?! 👋
 
 I'm a Business Intelligence Analyst at [GeekHunter](http://github.com) currently working with Metabase, PowerBI, Pandas AWS Tools and SKlearn.
-- 🔭 I’m currently currently working on business intelligence challenges and a recommendation system using classification algorithms..
-- 🌱 I'm currently learning some data science structure stuff like Data lake and Big data using AWS Tool, Pandas and SKlear.
+- 🔭 I’m currently currently working on business intelligence challenges and a recommendation system using classification algorithms.
+- 🌱 I'm currently learning some data science structure stuff like Data lake and Big data using AWS Tool, Pandas and SKlearn.
 - 🤝 I’m looking to collaborate on data science and machine learning projects. 
 
 
@@ -14,6 +14,7 @@ I'm a Business Intelligence Analyst at [GeekHunter](http://github.com) currently
 
 
 <!--
+fonte: https://natansl.medium.com/criando-um-readme-para-seu-perfil-no-github-6eb119218c4
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collumbus&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
 
