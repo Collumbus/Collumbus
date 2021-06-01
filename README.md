@@ -9,7 +9,11 @@ I'm a Business Intelligence Analyst at [GeekHunter](http://github.com)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jorgeluizjk/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jorgeluizjk/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)
 
 
 
