@@ -3,7 +3,7 @@
 ### What's up?! 👋
 
 
-[![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collumbus&layout=compact&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
+[![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collumbus&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jorgeluizjk/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jorgeluizjk/)
 <!--
