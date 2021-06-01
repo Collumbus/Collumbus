@@ -15,7 +15,7 @@ I'm a Business Intelligence Analyst at [GeekHunter](http://github.com)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=Bootcamp-Analista-de-Dados-IGTI" />
 </a>
 <a href="https://github.com/lab-info-saude/ohpera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=lab-info-saude/ohpera" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lab-info-saude&repo=ohpera" />
 </a>
 
 
