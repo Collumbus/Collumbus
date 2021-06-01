@@ -19,7 +19,7 @@ I'm a Business Intelligence Analyst at [GeekHunter](http://github.com)
 </a>
 
 <a href="https://github.com/Collumbus/Bootcamp-Analista-de-Dados-IGTI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=Bootcamp-Analista-de-Dados-IGTI" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=Bootcamp-Analista-de-Dados-IGTI&theme=tokyonight" />
 </a>
 <a href="https://github.com/Collumbus/CodeNation-AceleraDev-Maio_Julho-2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=CodeNation-AceleraDev-Maio_Julho-2020" />
