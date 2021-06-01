@@ -11,14 +11,25 @@ I'm a Business Intelligence Analyst at [GeekHunter](http://github.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)
 
+<a href="https://github.com/Collumbus/lab-info-saude/hgc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lab-info-saude&repo=hgc" />
+</a>
+<a href="https://github.com/lab-info-saude/ohpera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lab-info-saude&repo=ohpera" />
+</a>
+
 <a href="https://github.com/Collumbus/Bootcamp-Analista-de-Dados-IGTI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=Bootcamp-Analista-de-Dados-IGTI" />
 </a>
-<a href="https://github.com/lab-info-saude/ohpera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lab-info-saude&repo=ohpera" />
+<a href="https://github.com/Collumbus/CodeNation-AceleraDev-Maio_Julho-2020">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=CodeNation-AceleraDev-Maio_Julho-2020" />
 </a>
-<a href="https://github.com/lab-info-saude/ohpera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lab-info-saude&repo=ohpera" />
+
+<a href="https://github.com/Collumbus/Adventures-in-Middle-Earth---OGL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=Adventures-in-Middle-Earth---OGL" />
+</a>
+<a href="https://github.com/Collumbus/PKS_ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=PKS_ML" />
 </a>
 
 
