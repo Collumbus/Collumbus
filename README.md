@@ -6,7 +6,7 @@
 [![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collumbus&layout=compact)](https://github.com/Collumbus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collumbus&layout=compact&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
 
 
 <!--
