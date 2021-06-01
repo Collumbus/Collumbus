@@ -11,15 +11,11 @@ I'm a Business Intelligence Analyst at [GeekHunter](http://github.com)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ann_xor&theme=tokyonight)](https://github.com/Collumbus/ann_xor)
 
-<a href="https://github.com/Collumbus/Bootcamp-Analista-de-Dados-IGTI
-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=Bootcamp-Analista-de-Dados-IGTI
-" />
+<a href="https://github.com/Collumbus/Bootcamp-Analista-de-Dados-IGTI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=Bootcamp-Analista-de-Dados-IGTI" />
 </a>
-<a href="https://github.com/lab-info-saude/ohpera
-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ohpera
-" />
+<a href="https://github.com/lab-info-saude/ohpera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=ohpera " />
 </a>
 
 
