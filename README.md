@@ -3,10 +3,21 @@
 ### What's up?! 👋
 
 
-[![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collumbus&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
+I'm a Business Intelligence Analyst at [GeekHunter](http://github.com)
+
+[![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jorgeluizjk/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jorgeluizjk/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Collumbus&repo=github-readme-stats)](https://github.com/Collumbus/github-readme-stats)
+
+
+
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collumbus&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
+
+
 **Collumbus/Collumbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
