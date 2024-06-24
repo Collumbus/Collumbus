@@ -1,11 +1,12 @@
 <img src="https://i.imgur.com/xHoC85R.gif" />
-### What's up?! 👋
+# What's up?!  👋
 
 I'm a Data Engineer at [National Bank of Canada](https://www.bnc.ca/). There I work with data pipelines and data structure development.
 
-- 🔭  I’m currently currently working on data architecture challenges and structuring a Data Mesh using Airflow, RDS, S3, Glue, Athena and some APIs to gather different data sources.
-- 🌱 Now, I'm learning some data science structure stuff like Data lake, Data Mesh and Big data using AWS Tools, Airflow and Pandas.
-- 🤝 I’m looking to collaborate on data science and machine learning projects. 
+- 🔭 I’m currently tackling data architecture challenges and structuring a Data Mesh using Airflow, RDS, S3, Glue, Athena, Lambda, StepFunction, DynamoDB, and various APIs to integrate different data sources.
+- 🌱 I’m continuously learning about data science structures such as Data Lakes, Data Mesh, and Big Data using AWS Tools, Airflow, Terraform, Jenkins, and Pandas.
+- 🤝 I’m looking to collaborate on data science and machine learning projects, leveraging my expertise in Python, Spark, and AWS services.
+- 💡 Passionate about delivering value through data-driven insights and optimizing systems to handle large volumes of data.
 
 
 [![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Collumbus&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Collumbus/github-readme-stats)
