@@ -1,5 +1,4 @@
-<img src="[https://photos.app.goo.gl/P6ULzfg6kQMA5pG99]" >
-
+<img src="https://i.imgur.com/xHoC85R.gif" />
 ### What's up?! 👋
 
 I'm a Data Engineer at [National Bank of Canada](https://www.bnc.ca/). There I work with data pipelines and data structure development.
